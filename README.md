@@ -4,7 +4,7 @@ This is a Kubernetes cluster with Ingress and Juiceshop app.
 #### Vagrant: 2.2.3
 #### Virtualbox: 6.0
 
-## Installation
+## Provisioning
 - In the root directory start vagrant provisioning:
 ```
 vagrant up
